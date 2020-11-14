@@ -31,5 +31,5 @@ jobs:
       with:
         app-name: 'yaretakamo'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_c4601eb710f9441e8aef0b7a03f04ce5 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_8df8bd05deef43acbc80458c5bd850d9 }}
         package: .
